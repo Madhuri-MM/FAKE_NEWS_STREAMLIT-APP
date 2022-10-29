@@ -1,4 +1,4 @@
-# FAKE_NEWS_STREAMLIT-APP
+# FAKE_NEWS_STREAMLIT_APP
 Fake News Detection is a machine learning model used to detect fake or real news.
 This model is then deployed in streamlit.
 
@@ -6,7 +6,7 @@ This model is then deployed in streamlit.
 Pandas,
 Numpy,
 Sk-learn,
-Streamlit,
+Streamlit
 
 # Algortihm
 Navie Bayes algorithm
