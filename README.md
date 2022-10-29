@@ -33,7 +33,7 @@ https://www.kaggle.com/account/login?phase=emailSignIn&returnUrl=%2Fdatasets%2Fh
 
 
 # Algortihm
-Navie Bayes algorithm
+Naive Bayes algorithm
 
 
 
